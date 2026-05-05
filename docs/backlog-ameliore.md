@@ -1,10 +1,10 @@
-# 📋 Product Backlog Agile Scrum — AgriIA (Bachelor 2)
+#  Product Backlog Agile Scrum — AgriIA (Bachelor 2)
 ## Projet : Application mobile IA pour la Chambre d'Agriculture
 ### Version améliorée — Sprints 1 à 4
 
 ---
 
-## 🎯 Vision du Produit
+##  Vision du Produit
 Développer un MVP d'application web/mobile permettant aux agriculteurs de **surveiller leurs parcelles**, **diagnostiquer les maladies** via IA, et **visualiser leurs zones à risques** sur une carte interactive.
 
 **Stack technologique retenu :**
@@ -16,7 +16,7 @@ Développer un MVP d'application web/mobile permettant aux agriculteurs de **sur
 
 ---
 
-## 🏃 Sprint 1 — Authentification & Base (Semaine 1-2)
+##  Sprint 1 — Authentification & Base (Semaine 1-2)
 
 | ID | User Story | Critères d'Acceptation | Priorité | Points |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ Développer un MVP d'application web/mobile permettant aux agriculteurs de **sur
 
 ---
 
-## 🏃 Sprint 2 — Tableau de Bord & Parcelles (Semaine 3-4)
+##  Sprint 2 — Tableau de Bord & Parcelles (Semaine 3-4)
 
 | ID | User Story | Critères d'Acceptation | Priorité | Points |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ Développer un MVP d'application web/mobile permettant aux agriculteurs de **sur
 
 ---
 
-## 🏃 Sprint 3 — Module IA & Carte (Semaine 5-6)
+##  Sprint 3 — Module IA & Carte (Semaine 5-6)
 
 | ID | User Story | Critères d'Acceptation | Priorité | Points |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ Développer un MVP d'application web/mobile permettant aux agriculteurs de **sur
 
 ---
 
-## 🏃 Sprint 4 — Administration & Déploiement (Semaine 7-8)
+##  Sprint 4 — Administration & Déploiement (Semaine 7-8)
 
 | ID | User Story | Critères d'Acceptation | Priorité | Points |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ Développer un MVP d'application web/mobile permettant aux agriculteurs de **sur
 
 ---
 
-## 📊 Récapitulatif
+##  Récapitulatif
 
 | Sprint | Focus | Points | Durée |
 |---|---|---|---|
@@ -100,7 +100,7 @@ Développer un MVP d'application web/mobile permettant aux agriculteurs de **sur
 
 ---
 
-## 🏗️ Architecture Technique Résumée
+##  Architecture Technique Résumée
 
 ```
 [Capteurs IoT simulés]

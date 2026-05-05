@@ -110,7 +110,7 @@ app.use('/api/admin', adminRoutes);            // /api/admin/users (gestion util
 
 mongoose.connect(process.env.MONGO_URI)
     .then(() => console.log('✅ MongoDB connecté'))
-    .catch((err) => console.error('❌ Erreur MongoDB:', err));
+    .catch((err) => console.error(' Erreur MongoDB:', err));
 
 // ─────────────────────────────────────────────────────────
 // ROUTE DE SANTÉ — Health Check
@@ -127,7 +127,7 @@ app.get('/api/health', (req, res) => {
 // ─────────────────────────────────────────────────────────
 
 app.listen(PORT, () => {
-    console.log(`🚀 Serveur démarré sur le port ${PORT}`);
+    console.log(` Serveur démarré sur le port ${PORT}`);
 });
 
 module.exports = app;
