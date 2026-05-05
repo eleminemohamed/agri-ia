@@ -1,9 +1,9 @@
-# 🌿 AgriIA — Application de diagnostic intelligent pour l'agriculture
+# AgriIA — Application de diagnostic intelligent pour l'agriculture
 > Projet Bachelor 2 — Sup de Vinci × Chambre d'Agriculture
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 agri-ia-project/
@@ -38,7 +38,7 @@ agri-ia-project/
 
 ---
 
-## 🚀 Démarrage rapide (développement)
+## Démarrage rapide (développement)
 
 ### Prérequis
 - Node.js 18+ et npm
@@ -61,11 +61,11 @@ npm start
 ```
 Démarre sur http://localhost:3000
 
-> ⚠️ Sur Windows PowerShell, taper les commandes une par une.
+> Sur Windows PowerShell, taper les commandes une par une.
 
 ---
 
-## ⚙️ Configuration — fichier `.env`
+## Configuration — fichier `.env`
 
 Créer le fichier `backend/.env` (copier depuis `.env.example`) :
 
@@ -87,7 +87,7 @@ OPENAI_MODEL=gpt-4o-mini
 
 ---
 
-## 📡 Endpoints API
+## Endpoints API
 
 | Méthode | Route | Description | Auth |
 |---|---|---|---|
@@ -110,7 +110,7 @@ OPENAI_MODEL=gpt-4o-mini
 
 ---
 
-## 🤖 Module IA — OpenAI GPT-4o-mini
+## Module IA — OpenAI GPT-4o-mini
 
 Le diagnostic IA est géré dans `backend/routes/diagnostics.js`.
 
@@ -142,7 +142,7 @@ GPT-4o-mini répond en JSON structuré avec :
 
 ---
 
-## 👤 Créer un compte Administrateur
+## Créer un compte Administrateur
 
 1. S'inscrire sur http://localhost:3000
 2. Ouvrir MongoDB Compass → base agri-ia → collection users
@@ -152,7 +152,7 @@ GPT-4o-mini répond en JSON structuré avec :
 
 ---
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Couche | Technologie | Justification |
 |---|---|---|
@@ -167,7 +167,7 @@ GPT-4o-mini répond en JSON structuré avec :
 
 ---
 
-## 🚀 Déploiement en production (à venir)
+## Déploiement en production (à venir)
 
 | Service | Plateforme | Coût |
 |---|---|---|
